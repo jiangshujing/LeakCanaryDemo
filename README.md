@@ -1,0 +1,2 @@
+# LeakCanaryDemo
+使用内存泄漏检测工具LeakCanary的demo
